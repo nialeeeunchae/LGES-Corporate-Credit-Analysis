@@ -93,3 +93,5 @@ Potential future extensions include incorporating interim 2026 results, a fuller
 ---
 
 *This is an independent educational research project. Figures are sourced from the cited audit reports or calculated using explicitly stated assumptions. No investment advice or formal credit assessment is intended.*
+
+*Author: Nia Lee. Excel modelling, scenario design and documentation developed with AI assistance; financial analysis and results reviewed by the author.*
